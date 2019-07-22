@@ -2,3 +2,8 @@
 - git: { local-name: jackal_robot,          version: init_windows,              uri: 'https://github.com/ms-iot/jackal_robot' }
 - git: { local-name: nmea_msgs,             version: master,                    uri: 'https://github.com/ros-drivers/nmea_msgs' }
 - git: { local-name: rosserial,             version: init_windows,              uri: 'https://github.com/ms-iot/rosserial' }
+
+- git: { local-name: robot_localization,    version: init_windows,              uri: 'https://github.com/ms-iot/robot_localization' }
+- git: { local-name: imu_tools,             version: init_windows,              uri: 'https://github.com/ms-iot/imu_tools' }
+- git: { local-name: nmea_navsat_driver,    version: init_windows,              uri: 'https://github.com/ms-iot/nmea_navsat_driver' }
+- git: { local-name: twist_mux,             version: init_windows,              uri: 'https://github.com/ms-iot/twist_mux' }
