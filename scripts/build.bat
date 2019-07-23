@@ -1,1 +1,1 @@
-catkin_make_isolated --install --only-pkg-with-deps kobuki > analysis\build.out 2> analysis\build.err
+catkin_make_isolated --install --only-pkg-with-deps jackal_robot > analysis\build.out 2> analysis\build.err
