@@ -9,3 +9,4 @@
 - git: { local-name: twist_mux,             version: init_windows,              uri: 'https://github.com/ms-iot/twist_mux' }
 - git: { local-name: interactive_marker_twist_server,             version: init_windows,              uri: 'https://github.com/ms-iot/interactive_marker_twist_server' }
 - git: { local-name: geographic_info,       version: master,                    uri: 'https://github.com/ros-geographic-info/geographic_info' }
+- git: { local-name: unique_identifier,       version: master,                    uri: 'https://github.com/ros-geographic-info/unique_identifier' }
