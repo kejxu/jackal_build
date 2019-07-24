@@ -1,6 +1,7 @@
 # build
 - git: { local-name: jackal,                            version: init_windows,  uri: 'https://github.com/ms-iot/jackal' }
 - git: { local-name: jackal_robot,                      version: init_windows,  uri: 'https://github.com/ms-iot/jackal_robot' }
+- git: { local-name: jackal_simulator,                  version: init_windows,  uri: 'https://github.com/ms-iot/jackal_simulator' }
 - git: { local-name: nmea_msgs,                         version: master,        uri: 'https://github.com/ros-drivers/nmea_msgs' }
 - git: { local-name: rosserial,                         version: init_windows,  uri: 'https://github.com/ms-iot/rosserial' }
 
@@ -12,3 +13,4 @@
 - git: { local-name: interactive_marker_twist_server,   version: init_windows,  uri: 'https://github.com/ms-iot/interactive_marker_twist_server' }
 - git: { local-name: geographic_info,                   version: master,        uri: 'https://github.com/ros-geographic-info/geographic_info' }
 - git: { local-name: unique_identifier,                 version: master,        uri: 'https://github.com/ros-geographic-info/unique_identifier' }
+- git: { local-name: hector_gazebo,                     version: init_windows,  uri: 'https://github.com/ms-iot/hector_gazebo' }
