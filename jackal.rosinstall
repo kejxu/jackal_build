@@ -8,9 +8,9 @@
 # run
 - git: { local-name: robot_localization,                version: init_windows,  uri: 'https://github.com/ms-iot/robot_localization' }
 - git: { local-name: imu_tools,                         version: init_windows,  uri: 'https://github.com/ms-iot/imu_tools' }
-- git: { local-name: nmea_navsat_driver,                version: init_windows,  uri: 'https://github.com/ms-iot/nmea_navsat_driver' }
+- git: { local-name: nmea_navsat_driver,                version: master,  uri: 'https://github.com/ros-drivers/nmea_navsat_driver' }
 - git: { local-name: twist_mux,                         version: init_windows,  uri: 'https://github.com/ms-iot/twist_mux' }
-- git: { local-name: interactive_marker_twist_server,   version: init_windows,  uri: 'https://github.com/ms-iot/interactive_marker_twist_server' }
+- git: { local-name: interactive_marker_twist_server,   version: kinetic-devel,  uri: 'https://github.com/ros-visualization/interactive_marker_twist_server' }
 - git: { local-name: geographic_info,                   version: master,        uri: 'https://github.com/ros-geographic-info/geographic_info' }
 - git: { local-name: unique_identifier,                 version: master,        uri: 'https://github.com/ros-geographic-info/unique_identifier' }
 - git: { local-name: hector_gazebo,                     version: melodic-devel,  uri: 'https://github.com/tu-darmstadt-ros-pkg/hector_gazebo' }
